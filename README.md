@@ -94,6 +94,13 @@ Campos principales de la entidad **Tipo de Actividad**:
 
 ---
 
+## Acceso a la Aplicación
+
+Una vez que el servidor esté en ejecución, puedes acceder a la gestión de actividades a través de la siguiente URL:
+
+👉 **[http://localhost:8000/tipos-actividades](http://localhost:8000/tipos-actividades)**
+
+
 ## 🚀 Instalación y Ejecución
 
 ```bash
